@@ -16,7 +16,7 @@ AI Code Translator is a web application that leverages Google's Gemini API to tr
 
 ## Live Demo
 
-**[Access the live application here](YOUR_LIVE_DEMO_LINK_HERE)**
+**[Access the live application here](https://code-translator-inky.vercel.app/)**
 
 ## Running Locally
 
